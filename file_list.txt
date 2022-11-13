@@ -1,0 +1,4 @@
+total 2.0K
+-rw-r--r-- 1 InUk Noh 197121 10 Nov 13 16:39 README.md
+-rw-r--r-- 1 InUk Noh 197121  0 Nov 13 16:46 file_list.txt
+-rw-r--r-- 1 InUk Noh 197121 36 Nov 13 16:44 new_words.txt
